@@ -1,3 +1,9 @@
+---
+title: "The Promised Neverland"
+date: 2020-12-18
+category: "Anime"
+---
+
 Today I want to talk about The Promised Neverland. 
 
 **WARNING:** If you haven't watched it yet, this post will contain spoilers so go watch it first.
